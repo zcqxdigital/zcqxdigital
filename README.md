@@ -1,49 +1,101 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000&auto=format&fit=crop" alt="zcqxdigital banner" width="100%" style="border-radius: 10px;" />
+<!-- HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:000000&height=220&section=header&text=zcqxdigital&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Digital%20Agency%20%E2%80%A2%20Design%20Studio%20%E2%80%A2%20Performance%20First&descAlignY=58&descSize=17" alt="header"/>
 
-<br>
+<!-- TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=88CE02&center=true&vCenter=true&width=700&lines=We+strip+away+bloated+frameworks;Pure+code.+Cinematic+motion.+Real+speed;GSAP+%2B+WebGL+%2B+Custom+AI+Chatbots" alt="typing"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square&label=Profile+Visits)
-![Repos](https://img.shields.io/badge/Repositories-Public-blue?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits_this_month-High-green?style=flat-square)
+<br/>
+
+<!-- METRICS -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=88CE02&style=for-the-badge" /></a>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=111827" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-88CE02?style=for-the-badge" />
 
 </div>
 
-<br>
+---
 
-Welcome to **zcqxdigital** 🌐. We are a digital agency and design studio specializing in crafting high-end, cinematic web experiences. We strip away bloated frameworks to focus on performance, pure code, and striking brand strategy 🚀. Whether it's building immersive animations or integrating smart custom chatbots 🤖, we design for absolute visual clarity and speed ✨.
+### We build what templates cannot.
+
+**zcqxdigital** is a South Africa-based digital agency crafting high-end, cinematic web experiences. No WordPress bloat. No heavy frameworks. Just hand-coded performance, immersive GSAP/WebGL animations, and smart chatbots that actually convert.
+
+> Speed is a feature. Clarity is a strategy. Beauty is the standard.
 
 <br>
 
 <div align="center">
 
-### Technology Stack 💻
+### What We Ship
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+| PERFORMANCE | CINEMATIC UI | SMART SYSTEMS |
+|:---:|:---:|:---:|
+| 90+ Lighthouse, pure HTML/CSS/JS | GSAP, ScrollTrigger, WebGL shaders | Custom Node.js chatbots, API integrations |
+| Zero bloat, instant load | Motion that tells a story | Automation that saves hours |
+
+</div>
 
 <br>
 
-### Agency GitHub Stats 📊
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+### Core Stack
 
-### Contribution Streak 🔥
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,git,github,figma,vercel&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
+
+<br>
+
+### Featured Builds
+> Pin 3-4 repos and replace links below
+
+- **[Project One]** — Cinematic landing with GSAP scroll storytelling. `100/100 performance`
+- **[Project Two]** — Custom AI chatbot for e-commerce. `Node.js + OpenAI`
+- **[Project Three]** — WebGL product viewer. `Three.js + shaders`
+
+<br>
+
+<div align="center">
+
+### Development Activity
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=88CE02&fire=88CE02" />
+
+</div>
+
+---
+
+### Our Process
+1. **Strategy** — We audit, we strip, we plan for speed
+2. **Design in Figma** — Cinematic, not cluttered
+3. **Build Pure** — Hand-coded, GSAP motion, no bloat
+4. **Integrate Smart** — Chatbots, CMS, analytics
+5. **Ship Fast** — Deployed on Vercel/Netlify with 90+ scores
+
+<br>
+
+<div align="center">
+
+### Let's Build
+
+<a href="mailto:hello@zcqxdigital.com"><img src="https://img.shields.io/badge/Email-hello@zcqxdigital.com-88CE02?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://zcqxdigital.com"><img src="https://img.shields.io/badge/Website-zcqxdigital.com-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=120&section=footer" />
 
 </div>

@@ -1,61 +1,49 @@
 <div align="center">
 
-# 𝕫𝕔𝕢𝕩𝕕𝕚𝕘𝕚𝕥𝕒𝕝
-
-**Digital Agency & Design Studio**
-
-[![Website](https://img.shields.io/badge/Portfolio-zcqxdigital-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Cinematic_Editorial-111111?style=for-the-badge&logo=instagram&logoColor=white)](#)
-
-*Crafting high-end, cinematic web experiences through pure code and brand strategy.*
-
----
-
-</div>
-
-## ⌖ The Vision
-
-We specialize in building ultra-premium digital spaces for luxury brands. Our approach strips away bloated frameworks in favor of a **quiet luxury aesthetic**: dark mode by default, minimalist layouts, and high-performance, handcrafted code. Every pixel is intentional. Every animation is purposeful.
-
-### ✦ Core Expertise
-
-*   **Digital Architecture:** Bespoke web development from the ground up, specializing in architectural, automotive, and high-end retail domains.
-*   **Immersive Interactions:** Cinematic scrolling and micro-interactions powered by GSAP.
-*   **Brand Strategy:** Translating brand identity into a cohesive, editorial-grade online presence.
-*   **AI & Automation:** Custom chatbot integrations to handle client onboarding and elevate the customer service experience.
-
----
-
-## ⚙️ The Tech Stack
-
-We believe in the power and performance of the native web. We bypass heavy libraries to deliver raw speed, utilizing pure, production-ready code.
-
-| Discipline | Technologies |
-| :--- | :--- |
-| **Front-End** | Pure HTML5, CSS3, Vanilla JavaScript (ES6+) |
-| **Motion** | GSAP (GreenSock Animation Platform) |
-| **Commerce** | Lemon Squeezy Integration |
-| **Infrastructure** | Hostinger SMTP, Native Form Handling |
-| **Design** | UI/UX, Dark Mode Systems, High-Res Asset Optimization |
-
----
-
-## ◈ Design Philosophy
-
-> *"True luxury doesn't shout. It performs."*
-
-Our design language relies on stark contrasts, sophisticated typography, and premium digital textures (subtle grain, marble, carbon fiber motifs). We design for absolute visual clarity, ensuring that whether a user is exploring a yacht charter fleet or a custom epoxy portfolio, the interface feels seamless and atmospheric.
-
----
-
-<div align="center">
-
-### Let's Build Something Exceptional.
-
-[Contact Us](#) • [View Case Studies](#) • [Instagram](#)
+<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1000&auto=format&fit=crop" alt="zcqxdigital banner" width="100%" style="border-radius: 10px;" />
 
 <br>
 
-`© 2026 zcqxdigital. All rights reserved.`
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square&label=Profile+Visits)
+![Repos](https://img.shields.io/badge/Repositories-Public-blue?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits_this_month-High-green?style=flat-square)
+
+</div>
+
+<br>
+
+Welcome to **zcqxdigital** 🌐. We are a digital agency and design studio specializing in crafting high-end, cinematic web experiences. We strip away bloated frameworks to focus on performance, pure code, and striking brand strategy 🚀. Whether it's building immersive animations or integrating smart custom chatbots 🤖, we design for absolute visual clarity and speed ✨.
+
+<br>
+
+<div align="center">
+
+### Technology Stack 💻
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+<br>
+
+### Agency GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+### Contribution Streak 🔥
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
